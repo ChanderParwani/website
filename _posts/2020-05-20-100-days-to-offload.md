@@ -1,5 +1,5 @@
 ---
-layout:  post
+layout: post
 title:  "100 Days to Offload - A starting point"
 date:   2020-05-20 18:00 +1000
 categories: "100 Days to offload" ramblings
