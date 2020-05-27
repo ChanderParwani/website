@@ -4,3 +4,8 @@ title:  ""
 date:   
 categories: 
 ---
+## Preamble
+
+## Technology
+
+## Personal
