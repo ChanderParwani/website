@@ -2,7 +2,7 @@
 layout: post
 title:  "Problems"
 date:   2020-05-27 15:00:00 +10000
-categories: 100daystooffload
+categories: 100daystooffload thoughts
 ---
 ## Fix Problems
 

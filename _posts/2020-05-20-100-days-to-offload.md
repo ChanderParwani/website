@@ -2,7 +2,7 @@
 layout: post
 title:  "100 Days to Offload - A starting point"
 date:   2020-05-20 18:00:00 +1000
-categories: 100daystooffload ramblings
+categories: 100daystooffload ramblings ideas personal
 ---
 
 ## 100 Days to Offload

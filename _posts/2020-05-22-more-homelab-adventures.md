@@ -2,7 +2,7 @@
 layout: post
 title:  "More Homelab Adventures"
 date:   2020-05-22 18:00:00 +1000
-categories: 100daystooffload homelab
+categories: 100daystooffload homelab ansible technology
 ---
 The struggle with Ansible continues. Well, struggle is an exaggeration. I've managed to make progress getting a few of my playbooks running and iterating properly. The Ansible playbook to set up an Ansible node at the moment is 99% done, as is the playbook to get the SSH keys into each server. But getting the playbook to get my Jekyll node running is causing me nothing but problems. The playbook will say it's working but it's not actually installing. I'll have to continue digging through *why* the gem module hasn't been working for me but I'll take the successes where they occur in my other playbooks.
 

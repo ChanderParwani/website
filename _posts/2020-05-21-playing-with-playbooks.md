@@ -2,7 +2,7 @@
 layout: post
 title: "Playing with Playbooks"
 date: 2020-05-21 14:00:00 +1000
-categories: 100daystooffload homelab
+categories: 100daystooffload homelab technology ansible
 ---
 One of the better aspects of being stuck in lockdown is having the opportunity to be able to explore new technologies that I've always wanted to experiment with but have never found the time or focus to dedicate to. The past few days I've been doing just that in the form of working with Ansible. While it's hardly a new technology and the time of configuration management being the latest technology du jour has since passed, it's a fundamental building block for DevOps/SRE methodologies and something I've wanted to explore. While going through the process of creating new virtual machines in my homelab for trying diferent things out I've been running through the process of creating everything manually during the initial install, then endeavouring to replicate the process through Ansible playbooks.
 

@@ -2,7 +2,7 @@
 layout: post
 title:  "Finding a New Normal"
 date:   2020-05-26 15:00:00 +1000
-categories: 100daystooffload
+categories: 100daystooffload technology splunk ramblings
 ---
 
 Efforts to get the homelab up and running continue still. The effort yesterday and today have been focused on getting Splunk up and running with Ansible and adding this to the existing workflow. After first working through and trying to get the Splunk/Ansible playbook that Splunk have listed on their Github page to work, I eventually gave up. I'd like to take a moment here to make a comment towards any vendor writing up documentation (or any person for that matter): _Don't make your documentation conversational, make it usable_. If I'm having to read through it to figure something out, I want it to be as specific and succinct as possible to ensure I can get everything up and running with as little fuss as possible. Trying to make it anything other than dry and boring just means you've probably failed at one or both of those requirements. By glossing over parts of the command set you're reducing my ability to understand the product, which is counter to the point of documentation in the first place. If I need to use another document to help me get understand what you're conveying, something has gone wrong. Following this moment of frustration, I decided it would be faster to simply use the Splunk Docker image instead and run that on my system. This turned out to be absolutely the case, within a few minutes I was up and mostly sorted. Install Portainer in addition so I could see what was going on and it looked like I was good to go.

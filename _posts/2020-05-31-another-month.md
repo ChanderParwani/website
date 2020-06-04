@@ -2,7 +2,7 @@
 layout: post
 title:  "Another Month"
 date:   2020-05-31 20:00:00 +1000
-categories: 100daystooffload
+categories: 100daystooffload technology personal
 ---
 I really need to start looking at how to automate the creation of these posts to automatically date, title and timestamp them so I don't need to manually do it every time... I know the capability is there to achieve it, I just haven't looked into it as yet. Perhaps I'll do that during the week.
 
