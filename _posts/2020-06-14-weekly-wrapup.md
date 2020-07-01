@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Wekly Wrapup - June 14th"
+title:  "Weekly Wrapup - June 14th"
 date:   2020-06-14 09:00:00 +1000
 categories: weeklywrapup
 ---

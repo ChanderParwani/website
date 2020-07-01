@@ -5,3 +5,4 @@ _site
 vendor
 s3_website.yml
 .vscode
+drafts
